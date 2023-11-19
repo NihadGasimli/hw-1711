@@ -370,7 +370,7 @@ section3{
 }
 .contactImg img{
     width: 850px;
-    height: 600px;
+    height: 605px;
 }
 .name,
 .email,
@@ -413,6 +413,11 @@ section3{
 .form p{
     font-size: 55px; 
     padding-top: 10px;
+}
+.form input, .message textarea{
+    border: 0px;
+    border-bottom: 2px solid black;
+    font-size: 18px;
 }
 .confirm{
     display: flex;
