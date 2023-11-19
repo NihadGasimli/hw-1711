@@ -418,6 +418,11 @@ section3{
     border: 0px;
     border-bottom: 2px solid black;
     font-size: 18px;
+    transition: 0.2s;
+}
+.form input:hover, .message textarea:hover{
+    padding-bottom:20px ;
+    transition: 0.5s;
 }
 .confirm{
     display: flex;
