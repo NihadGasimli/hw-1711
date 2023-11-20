@@ -334,7 +334,7 @@ nav ul li a:hover{
     column-gap: 100px;
     row-gap: 20px;
 }
-section3{
+#section3{
     position: absolute;
     top: 2000px;
 }
@@ -361,7 +361,7 @@ section3{
     transition: 0.5s;
 }
 
-section3{
+#section3{
     position: absolute;
     top: 1800px;
     display: flex;
